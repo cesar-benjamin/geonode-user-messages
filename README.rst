@@ -1,6 +1,8 @@
 User messaging
 ==============
 
+This repo was forked to fix compatibility issues with geonode and django 4.2.x. Geonode 4.3.1 now is fully compatible, so, i have to archive this repo and delete it on Jan 2025.
+
 ``user-messages`` is an application for allowing users of your Django site to
 send messages to each other.
 
